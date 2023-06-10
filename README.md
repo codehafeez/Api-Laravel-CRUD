@@ -14,7 +14,12 @@ php artisan serve
 
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-App_02/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-CRUD/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-CRUD/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-CRUD/main/Screenshots/Output-03.png)
+![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-CRUD/main/Screenshots/Output-04.png)
+![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-CRUD/main/Screenshots/Output-05.png)
+![](https://raw.githubusercontent.com/codehafeez/Api-Laravel-CRUD/main/Screenshots/Output-06.png)
 
 
 ## 🔗 www.codehafeez.com
